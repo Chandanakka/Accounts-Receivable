@@ -1,0 +1,1000 @@
+   31  ls
+   32  cd IdeaProjects/
+   33  ls 
+   34  rm -Rf maraichage-backend/
+   35  ls
+   36  npm install axios
+   37  exit
+   38  cd Downloads/
+   39  cd ideaIC-2023.2.2/
+   40  ls -la
+   41  cd ..
+   42  ls -la
+   43  cd ideaIC-2023.2.2/
+   44  cd idea-IC-232.9921.47/
+   45  cd bin/
+   46  ./idea.sh 
+   47  pws
+   48  pwd
+   49  ls
+   50  ./idea.sh
+   51  glreceivedamountexit
+   52  exit
+   53  cd ReactJS/accounts-receivable/
+   54  npm run
+   55  npm start
+   56  exit
+   57  cd ReactJS/accounts-receivable/
+   58  npm install axios
+   59  exit
+   60  cd ReactJS/accounts-receivable/
+   61  npm start
+   62  exit
+   63  cd Downloads/
+   64  cd ideaIC-2023.2.2/idea-IC-232.9921.47/bin/
+   65  ./idea.sh 
+   66  exit
+   67  cd Downloads/
+   68  cd postman-linux-x64\ \(1\)/Postman/
+   69  ls
+   70  ./postman
+   71  postman
+   72  exit
+   73  cd ReactJS/accounts-receivable/
+   74  npm install axios
+   75  exit
+   76  cd ReactJS/accounts-receivable/
+   77  npm install axios
+   78  npm uninstall axios
+   79  npm config set proxy null
+   80  npm config set https-proxy null
+   81  npm config set registry http://registry.npmjs.org/
+   82  npm install axios
+   83  exit
+   84  cd ReactJS/accounts-receivable/
+   85  npm install axios --save
+   86  npm view axios versions
+   87  npm install axios 1.6.0
+   88  npm install axios@1.6.0
+   89  exit
+   90  cd ReactJS/accounts-receivable/
+   91  npm run
+   92  npm start
+   93  exit
+   94  cd Downloads/ideaIC-2023.2.2/idea-IC-232.9921.47/
+   95  cd bin/
+   96  ./idea.sh 
+   97  exit
+   98  cd Downloads/postman-linux-x64\ \(1\)/P
+   99  cd Downloads/postman-linux-x64\ \(1\)/
+  100  postman
+  101  exit
+  102  cd ReactJS/accounts-receivable/
+  103  npm start
+  104  npm publish
+  105  e
+  106  npm publish --access public
+  107  vi test.his 
+  108  systemctl status firewalld.service
+  109  systemctl stop firewalld.service
+  110  systemctl status firewalld.service
+  111  exit
+  112  cd ReactJS/accounts-receivable/
+  113  sudo npm install anxios
+  114  yarn add axios
+  115  sudo dnf add axios
+  116  sudo dnf in axios
+  117  npm install anxios
+  118  vi test.his
+  119  history > test.his
+  120  vi test.his
+  121  sudo vi etc/mysql/my.cnf
+  122  sudo vi /etc/mysql/my.cnf
+  123  sudo vi /etc/my.cnf
+  124  sudo vi /etc/ma
+  125  mysql -u root -p
+  126  mysql -u chandana -p
+  127  mysql -u root
+  128  brew
+  129  service mysqld start
+  130  mysql -u root -p
+  131  service mysqld startclear
+  132  clear
+  133  sudo vi /etc/my.cnf
+  134  service mysqld startclear
+  135  service mysqld restart
+  136  mysql -u root -p
+  137  mysql -u root
+  138  sudo mysql -u root
+  139  mysql -u chandana -p
+  140  sudo mysql -u root
+  141  exit
+  142  cd IdeaProjects/maraichage-backend/
+  143  ls -la
+  144  cd target/
+  145  ls -la
+  146  exit
+  147  cd ReactJS/accounts-receivable/
+  148  npm run build
+  149  serve -s build
+  150  npm run build
+  151  serve -s build
+  152  npm start
+  153  npm run build
+  154  serve -s build
+  155  exit
+  156  cd Downloads/ideaIC-2023.2.2/idea-IC-232.9921.47/bin/
+  157  ./idea.sh
+  158  exit
+  159  cd 
+  160  cd IdeaProjects/maraichage-backend/out/artifacts/maraichage_backend_jar/
+  161  ls -la
+  162  pwd
+  163  cd 
+  164  cd ReactJS/accounts-receivable/
+  165  serve -s build
+  166  history test.his 
+  167  history > test.his 
+  168  vi test.his 
+  169  /usr/bin/java -version
+  170  cd /home/chandana/IdeaProjects/maraichage-backend/out/artifacts/maraichage_backend_jar
+  171  ls
+  172  serve -s build
+  173  cd
+  174  cd ReactJS/accounts-receivable/
+  175  serve -s build
+  176  npm run build
+  177  serve -s build
+  178  npm run build
+  179  serve -s build
+  180  serve -s build &
+  181  npm install serve -s
+  182  nano /lib/systemd/system/react.service
+  183  sudo nano /lib/systemd/system/react.service
+  184  systemctl daemon-reload
+  185  sudo systemctl start react
+  186  clear
+  187  exit
+  188  cd IdeaProjects/maraichage-backend/
+  189  ls -la
+  190  cd target/
+  191  ls -la
+  192  cd generated-sources/
+  193  ls -la
+  194  cd annotations/
+  195  ls -la
+  196  cd ..
+  197  ls -la
+  198  cd classes/
+  199  ls
+  200  cd ..
+  201  ls -la
+  202  cd ..
+  203  ls
+  204  cd maraichage-backend/
+  205  ls -la
+  206  cd out/
+  207  ls -la
+  208  cd artifacts/
+  209  ls -la
+  210  cd maraichage_backend_jar/
+  211  ls -la
+  212  whereis java
+  213  sudo nano /etc/systemd/system/app1.service
+  214  sudo mv /etc/systemd/system/app1.service /etc/systemd/system/app1.service maraichage-backend.servicce
+  215  sudo mv /etc/systemd/system/app1.service /etc/systemd/system/maraichage-backend.service
+  216  sudo systemctl start maraichage-backend.service
+  217  sudo systemctl stop maraichage-backend.service
+  218  sudo systemctl restart maraichage-backend.service
+  219  sudo systemctl enable maraichage-backend.service
+  220  cd
+  221  cd Downloads/postman-linux-x64\ \(1\)/Postman/
+  222  postman
+  223  sudo systemctl status maraichage-backend.service
+  224  sudo nano /etc/systemd/system/maraichage-backend.service 
+  225  more /etc/systemd/system/maraichage-backend.service 
+  226  sudo systemctl restart maraichage-backend.service
+  227  sudo systemctl stop maraichage-backend.service
+  228  sudo systemctl start maraichage-backend.service
+  229  more /etc/systemd/system/maraichage-backend.service 
+  230  sudo systemctl start maraichage-backend.service
+  231  sudo systemctl daemon-reload
+  232  sudo systemctl start maraichage-backend.service
+  233  sudo systemctl status maraichage-backend.service
+  234  sudo /usr/bin/java -jar /home/chandana/IdeaProjects/maraichage-backend/out/artifacts/maraichage_backend_jar
+  235  sudo /usr/bin/java -jar /home/chandana/IdeaProjects/maraichage-backend/out/artifacts/maraichage_backend_jar/maraichage-backend.jar 
+  236  pwd
+  237  cd
+  238  cd IdeaProjects/maraichage-backend/out/artifacts/maraichage_backend_jar/
+  239  ls
+  240  pwd
+  241  sudo /usr/bin/java -jar maraichage-backend.jar 
+  242  whereis java
+  243  java -version
+  244  clear
+  245  java --version
+  246  cd 
+  247  cd IdeaProjects/
+  248  ls
+  249  cd
+  250  cd Downloads/
+  251  cd ideaIC-2023.2.2/
+  252  ls
+  253  ccd idea-IC-232.9921.47/
+  254  cd idea-IC-232.9921.47/
+  255  ls
+  256  cd bin/
+  257  ./idea.sh 
+  258  clear
+  259  sudo alternatives --config java
+  260  yum list installed "java*"
+  261  sudo update-alternatives --config 'java'
+  262  sudo yum install java-17-openjdk
+  263  java -version
+  264  sudo update-alternatives --config 'java'
+  265  java -version
+  266  cd 
+  267  cd IdeaProjects/maraichage-backend/out/
+  268  ls
+  269  cd artifacts/
+  270  ls
+  271  cd maraichage_backend_jar/
+  272  ls
+  273  java -jar maraichage-backend.jar 
+  274  pwd
+  275  sudo nano /etc/systemd/system/maraichage-backend.service 
+  276  sudo systemctl start maraichage-backend.service
+  277  sudo systemctl daemon-reload
+  278  sudo systemctl start maraichage-backend.service
+  279  sudo systemctl status maraichage-backend.service
+  280  cd
+  281  cd ReactJS/accounts-receivable/exit
+  282  exit
+  283  cd Downloads/postman-linux-x64\ \(1\)/Postman/
+  284  postman
+  285  exit
+  286  cd ReactJS/
+  287  cd accounts-receivable/
+  288  git add .
+  289  git commit -m "Final code 31-10-2023"
+  290  git branch -M main
+  291  git remote add origin git@github.com:Chandanakka/AccountsReceivable.git
+  292  git push -u origin main
+  293  cd 
+  294  cd IdeaProjects/maraichage-backend/
+  295  pwd
+  296  ls -la
+  297  git init .
+  298  git add .
+  299  git commit "My first commit"
+  300  git commit -m "My first commit"
+  301  git branch -M main
+  302  git remote add origin git@github.com:Chandanakka/maraichage-backend.git
+  303  git push -u origin main
+  304  pwd
+  305  cd out
+  306  pwd
+  307  sudo systemctl status maraichage-backend.service 
+  308  sudo systemctl stop maraichage-backend.service 
+  309  sudo systemctl status accounts-daemon.service 
+  310  sudo systemctl stop accounts-daemon.service 
+  311  sudo systemctl status accounts-daemon.service 
+  312  cd 
+  313  cd ReactJS/accounts-receivable/
+  314  npm start
+  315  clear
+  316  exit
+  317  cd IdeaProjects/maraichage-backend/
+  318  cd
+  319  cd Downloads/ideaIC-2023.2.2/idea-IC-232.9921.47/bin/
+  320  ./idea.sh 
+  321  cd 
+  322  cd IdeaProjects/maraichage-backend/src/
+  323  ls -l
+  324  cd main/
+  325  ls
+  326  cd java/
+  327  ls
+  328  cd net/maraichage/maraichagebackend/controller/
+  329  ls -l
+  330  more AccountsReceivableController.java 
+  331  sudo systemctl status maraichage-backend.service 
+  332  sudo systemctl status accounts-receivable.service 
+  333  cd
+  334  cd Downloads/
+  335  ;s
+  336  ls
+  337  cp maraichage-backend.zip testImage.zip
+  338  cd
+  339  cd IdeaProjects/
+  340  cd test
+  341  rm -Rf testImage/
+  342  ls
+  343  cd testImage/
+  344  mvn spring-boot:start
+  345  sudo dnf in mvn
+  346  sudo dnf in maven
+  347  mvn spring-boot:start
+  348  cd ..
+  349  cd maraichage-backend/
+  350  mvn spring-boot:start
+  351  clear
+  352  cd
+  353  cd Downloads/postman-linux-x64\ \(1\)/
+  354  postman 
+  355  exit
+  356  sudo nano /etc/systemd/system/maraichage-backend.service 
+  357  sudo nano /lib/systemd/system/accounts-daemon.service
+  358  clear
+  359  sudo nano /lib/systemd/system/react.service
+  360  sudo mv /lib/systemd/system/react.service /lib/systemd/system/accounts-receivable.service
+  361  sudo nano /lib/systemd/system/accounts-receivable.service 
+  362  sudo systemctl daemon-reload
+  363  sudo systemctl start accounts-receivable
+  364  sudo systemctl status accounts-receivable
+  365  sudo systemctl status accounts-receivable.service 
+  366  sudo systemctl start accounts-receivable.service 
+  367  sudo systemctl status accounts-receivable.service 
+  368  sudo /usr/bin/npm
+  369  sudo nano /lib/systemd/system/accounts-receivable.service 
+  370  systemctl start accounts-receivable.service 
+  371  sudo systemctl status accounts-receivable.service 
+  372  sudo nano /lib/systemd/system/accounts-receivable.service 
+  373  sudo mv /lib/systemd/system/react.service /lib/systemd/system/react.service
+  374  sudo mv /lib/systemd/system/accounts-receivable.service /lib/systemd/system/react.service
+  375  sudo systemctl daemon-reload
+  376  sudo systemctl start react
+  377  sudo systemctl status react
+  378  sudo systemctl start react
+  379  cd 
+  380  cd ReactJS/accounts-receivable/
+  381  clear
+  382  nohup serve -s build > f1.txt & jobs -l *the id of my process was 1* disown %1
+  383  nohup serve -s build > f1.txt & jobs -l
+  384  npm run build
+  385  nohup serve -s build > f1.txt & jobs -l
+  386  npm run build
+  387  nohup serve -s build > f1.txt & jobs -l
+  388  vi test.his
+  389  npm run build
+  390  nohup serve -s build > f1.txt & jobs -l
+  391  npm run build
+  392  nohup serve -s build > f1.txt & jobs -l
+  393  npm run build
+  394  nohup serve -s build > f1.txt & jobs -l
+  395  cd 
+  396  cd Downloads/
+  397  ls SL*
+  398  cd ..
+  399  cd Pictures/
+  400  ls ki*
+  401  ls 
+  402  pwd
+  403  echo $CATALINA_HOME/lib
+  404  cd
+  405  cd Downloads/
+  406  cp mariadb-java-client-3.2.0.jar $CATALINA_HOME/lib
+  407  sudo cp mariadb-java-client-3.2.0.jar $CATALINA_HOME/lib
+  408  whereis java
+  409  cd mariadb-connector-c-3.3.7-rhel9-amd64/
+  410  ls
+  411  cd bin/
+  412  ls
+  413  sudo ./mariadb_config 
+  414  cd /home/chandana/NetBeansProjects/checkImageUpload/target/classes
+  415  cd mariadb-connector-c-3.3.7-rhel9-amd64/
+  416  ls
+  417  cd com/
+  418  ls
+  419  cd
+  420  cd Downloads/
+  421  cp mariadb-java-client-3.2.0.jar /home/chandana/NetBeansProjects/checkImageUpload/target/classes
+  422  cd /home/chandana/NetBeansProjects/checkImageUpload/target/classes
+  423  ls
+  424  cd /home/chandana/.jdks/openjdk-21/bin/java
+  425  cd /home/chandana/.jdks/openjdk-21/bin/
+  426  cd
+  427  cd Downloads/
+  428  cp mariadb-java-client-3.2.0.jar /home/chandana/.jdks/openjdk-21/bin/
+  429  ls /usr/share/java/*jar
+  430  cd 
+  431  cd NetBeansProjects/
+  432  ls
+  433  rm -Rf *
+  434  cd
+  435  cd ReactJS/accounts-receivable/
+  436  npm install react-datepicker react-dropzone
+  437  npm config set proxy null
+  438  npm config set https-proxy null
+  439  npm config set registry http://registry.npmjs.org/
+  440  npm install react-datepicker react-dropzone
+  441  sudo vi /etc/hosta
+  442  cd /etc/hosts
+  443  more /etc/hosts
+  444  sudo vi /etc/hosts
+  445  npm install react-datepicker react-dropzone
+  446  npm run
+  447  npm start
+  448  clear
+  449  npm star
+  450  npm start
+  451  exit
+  452  cd Pictures/
+  453  ls
+  454  pwd
+  455  cd
+  456  cd Downloads/mariadb-connector-c-3.3
+  457  cd Downloads/mariadb-connector-c-3.3.7-rhel9-amd64/
+  458  cd bin/
+  459  ks
+  460  ls
+  461  ./mariadb_config 
+  462  ls
+  463  cd
+  464  cd Downloads/
+  465  ls -la
+  466  ls -la ma*
+  467  cd mariadb-connector-c-3.3.7-rhel9-amd64/
+  468  ls -la
+  469  cd bin
+  470  ls
+  471  ./mariadb_config 
+  472  cd ..
+  473  ls
+  474  cd ..
+  475  cd MariaDB-Connector
+  476  tar xf software-name.tar.gz
+  477  ta
+  478  tar xf software-name.tar.gz
+  479  tar xf mariadb-connector-c-3.3.7-rhel9-amd64.tar.gz 
+  480  cd mariadb-connector-c-3.3.7-rhel9-amd64/bin/
+  481  ./mariadb_config 
+  482  sudo yum install mariadb-connector-java
+  483  sudo yum install mysql-connector-java
+  484  sudo dnf install netbeans
+  485  cd
+  486  cd Downloads/
+  487  wget -c http://download.netbeans.org/netbeans/8.2/final/bundles/netbeans-8.2-linux.sh
+  488  cd ideaIC-2023.2.2/idea-IC-232.9921.47/bin/
+  489  ./idea.sh 
+  490  exit
+  491  cd ReactJS/accounts-receivable/
+  492  ls -la
+  493  sudo systemctl status accounts-daemon.service 
+  494  history test.his 
+  495  history > test.his 
+  496  vi test.his 
+  497  pwd
+  498  ls
+  499  cd
+  500  cd Downloads/
+  501  cd postman-linux-x64\ \(1\)/Postman/
+  502  postman
+  503  exit
+  504  cd Downloads/ideaIC-2023.2.2/idea-IC-232.9921.47/
+  505  cd bin/
+  506  ./idea.sh 
+  507  exit
+  508  cd 
+  509  cd /home/chandana/Postman/files
+  510  pwd
+  511  ls
+  512  cp /home/chandana/Pictures/Kishore.png .
+  513  pwd
+  514  ls -la
+  515  rm *
+  516  ls -la
+  517  sudo systemctl status mariadb.service 
+  518  sudo systemctl stop mariadb.service 
+  519  exit
+  520  cd Downloads/postman-linux-x64\ \(1\)/
+  521  postman 
+  522  postman &
+  523  sudo systemctl status maraichage-backend.service 
+  524  sudo systemctl stop maraichage-backend.service 
+  525  clear
+  526  postman
+  527  exit
+  528  cd ReactJS/accounts-receivable/
+  529  npm start
+  530  exit
+  531  cd Downloads/
+  532  cd postman-linux-x64\ \(1\)/
+  533  postman 
+  534  exit
+  535  sudo systemctl status maraichage-backend.service 
+  536  sudo systemctl stop maraichage-backend.service 
+  537  cd
+  538  cd IdeaProjects/maraichage-backend/
+  539  cd
+  540  cd Downloads/ideaIC-2023.2.2/idea-IC-232.9921.47/
+  541  cd bin/
+  542  idea.sh
+  543  ./idea.sh
+  544  exit
+  545  create-react-app
+  546  sudo systemctl status maraichage-backend.service 
+  547  sudo systemctl disable maraichage-backend.service 
+  548  cd
+  549  cd Downloads/
+  550  cd ideaIC-2023.2.2/idea-IC-232.9921.47/bin/
+  551  idea.sh
+  552  ./idea.sh
+  553  cd
+  554  cd ReactJS/accounts-receivable/
+  555  npm start
+  556  cd ..
+  557  ls
+  558  npx create-react-app image-upload
+  559  npm config set registry https://registry.npmjs.org/
+  560  curl https://registry.npmjs.org/
+  561  npm cache clean --force
+  562  npm install
+  563  npx create-react-app image-upload
+  564  npm config get proxy
+  565  npm config rm proxy
+  566  npm config rm https-proxy
+  567  npx create-react-app image-upload
+  568  sudo npx create-react-app image-upload
+  569  npx
+  570  npm install create-react-app
+  571  sudo npm install create-react-app
+  572  npm config set registry http://registry.npmjs.org/
+  573  sudonpm config set registry http://registry.npmjs.org/
+  574  sudo npm config set registry http://registry.npmjs.org/
+  575  sudonpm config set registry http://registry.npmjs.org/
+  576  npm config set registry http://registry.npmjs.org/
+  577  npm config get proxy
+  578  npm config rm proxy
+  579  npm config rm https-proxy
+  580  npm config set proxy http://xxx.xxx.xxx.4:8080 
+  581  npm config get proxy
+  582  npm config rm https-proxy
+  583  npm config get proxy
+  584  npm config rm http-proxy
+  585  npm config get proxy
+  586  sudo rm -rf ~/.npm
+  587  rm yarn.lock
+  588  rm package-lock.json
+  589  rm node_modules
+  590  npm install 
+  591  sudo npm install create-react-app
+  592  npm config set proxy "http://127.0.0.1:3128/"
+  593  sudo npm install create-react-app
+  594  npm config set proxy null
+  595  npm config set https-proxy null
+  596  npm config set registry http://registry.npmjs.org/
+  597  sudo npm install create-react-app
+  598  clear
+  599  exit
+  600  cd IdeaProjects/maraichage-backend/
+  601  ls -la
+  602  cd ..
+  603  git fetch origin main
+  604  cd maraichage-backend/
+  605  git fetch origin main
+  606  ls -la
+  607  sudo systemctl status maraichage-backend.service 
+  608  sudo systemctl stop maraichage-backend.service 
+  609  cd 
+  610  cd Downloads/postman-linux-x64\ \(1\)/
+  611  postman 
+  612  exit
+  613  cd Downloads/postman-linux-x64\ \(1\)/Postman/
+  614  postman 
+  615  exit
+  616  cd IdeaProjects/maraichage-backend/
+  617  history
+  618  clear
+  619  git fetch origin main
+  620  git pull origin main
+  621  cd src
+  622  cd main/
+  623  ls
+  624  cd java/
+  625  ls
+  626  cd net/
+  627  ls
+  628  cd maraichage/
+  629  ls
+  630  cd maraichagebackend/
+  631  ls
+  632  cd service/
+  633  ls
+  634  cd
+  635  cd IdeaProjects/maraichage-backend/
+  636  clear
+  637  git pull origin
+  638  git pull origin --force
+  639  git fetch origin --force
+  640  git pull origin main --force
+  641  git fetch origin main --force
+  642  rm -Rf
+  643  git fetch origin main --force
+  644  rm -Rf
+  645  git fetch origin main --force
+  646  rm -Rf
+  647  git fetch main --force
+  648  git pull origin main
+  649  ls ls
+  650  ls la
+  651  ls -la
+  652  cd src/main/java/net/maraichage/maraichagebackend/service/
+  653  ls
+  654  cd
+  655  cd IdeaProjects/maraichage-backend/
+  656  ls -la
+  657  sudo systemctl status maraichage-backend.service 
+  658  git pull
+  659  git pull main origin
+  660  git pull origin main
+  661  ls
+  662  rm -Rf *
+  663  git pull origin main
+  664  ls -la
+  665  rm .gitignore 
+  666  git pull origin main
+  667  cd ..
+  668  git clone https://github.com/Chandanakka/maraichage-backend maraichage-backend
+  669  rm -rf maraichage-backend/
+  670  git clone https://github.com/Chandanakka/maraichage-backend maraichage-backend
+  671  cd
+  672  cd Downloads/ideaIC-2023.2.2/idea-IC-232.9921.47/bin/
+  673  ./idea.sh 
+  674  exit
+  675  create-react-app
+  676  create-react-app image-app
+  677  cd ReactJS/
+  678  npx create-react-app
+  679  npm install -g create-react-app
+  680  npm config set prefix /usr/local
+  681  sudo npm config set prefix /usr/local
+  682  sudo npm install -g create-react-app
+  683  npx create-react-app my-app
+  684  npm init react-app image-app
+  685  ls
+  686  rm package.json 
+  687  npm init
+  688  npx
+  689  npm ls -g
+  690  npm bin -g
+  691  npm config get
+  692  npm config ls -l
+  693  npm config set registry https://skimdb.npmjs.com/registry
+  694  npm init react-app image-app
+  695  npx creat-react-app image-app
+  696  npm config set registry registry.npmjs.org 
+  697  npm config set registry http://registry.npmjs.org 
+  698  npx creat-react-app image-app
+  699  npm init react-app image-app
+  700  sudo install yarn
+  701  sudo dnf install yarn
+  702  sudo yum install yarn
+  703  sudo yum install npm
+  704  sudo yum install npm -f
+  705  sudo yum install npm -f-
+  706  sudo yum install npm --f
+  707  sudo yum install npm --force
+  708  sudo yum install npm -force
+  709  curl -sL https://dl.yarnpkg.com/rpm/yarn.repo -o /etc/yum.repos.d/yarn.repo
+  710  sudo yum install yarn
+  711  sudo dnf install yarn
+  712  sudo dnf update -y
+  713  clear
+  714  sudo dnf groupinstall 'Development Tools' -y
+  715  curl -fsSL https://rpm.nodesource.com/setup_18.x | sudo bash -
+  716  sudo dnf install nodejs -y
+  717  npm -c
+  718  npm -v
+  719  node -v
+  720  curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.2/install.sh | bash
+  721  command -v nvm
+  722  nvm ls-remote
+  723  sudo dnf install nodejs -y
+  724  sudo dnf remove nodejs -y
+  725  sudo dnf install nodejs -y
+  726  nvm ls-remote
+  727  npm ls-remote
+  728  npx
+  729  npm init react-app image-app
+  730  clear
+  731  npx vreate react-app image-app
+  732  npm config set r
+  733  npx vreate react-app image-app
+  734  npx create-react-app image-app
+  735  npm config set registry https://skimdb.npmjs.com/registry
+  736  npx create-react-app image-app
+  737  npk config edit
+  738  npm config edit
+  739  npx
+  740  npm install create-react-app
+  741  sudo curl -fsSL https://rpm.nodesource.com/setup_12.x -o nodesource.sh
+  742  sudo bash nodesource.sh
+  743  sudo apt-get install -y ca-certificates curl gnupg
+  744  sudo yum install -y ca-certificates curl gnupg
+  745  sudo mkdir -p /etc/apt/keyrings
+  746  curl -fsSL https://deb.nodesource.com/gpgkey/nodesource-repo.gpg.key | sudo gpg --dearmor -o /etc/apt/keyrings/nodesource.gpg
+  747  NODE_MAJOR
+  748  NODE_MAJOR-20
+  749  NODE_MAJOR=20
+  750  sudo yum install nodejs -y
+  751  sudo yum install nodejs -ysudo yum install https://rpm.nodesource.com/pub_21.x/nodistro/repo/nodesource-release-nodistro-1.noarch.rpm -y
+  752  sudo yum install https://rpm.nodesource.com/pub_21.x/nodistro/repo/nodesource-release-nodistro-1.noarch.rpm -y
+  753  sudo yum install nodejs -y --setopt=nodesource-nodejs.module_hotfixes=1
+  754  sudo yum install https://rpm.nodesource.com/pub_21.x/nodistro/repo/nodesource-release-nodistro-1.noarch.rpm -y
+  755  sudo yum install nodejs -y --setopt=nodesource-nodejs.module_hotfixes=1
+  756  npm install create-react-app
+  757  npm config set registry http://registry.npmjs.org 
+  758  npm install create-react-app
+  759  exit
+  760  npx
+  761  npx create-react-app 
+  762  node -version
+  763  sudo yum update
+  764  cd Downloads/
+  765  curl –sL https://rpm.nodesource.com/setup_10.x | sudo bash -
+  766  node --version
+  767  cd
+  768  cd ReactJS/
+  769  npx create-react-app image-app
+  770  npm config set registry https://registry.npmjs.org/
+  771  sudo npm config set registry https://registry.npmjs.org/
+  772  clear
+  773  Check result of curl https://registry.npmjs.org/
+  774  curl https://registry.npmjs.org/
+  775  sudo sytemctl status firewalld
+  776  sudo systemctl status firewalld
+  777  sudo systemctl stop firewalld
+  778  sudo systemctl disable firewalld
+  779  curl https://registry.npmjs.org/
+  780  sudo systemctl status firewalld
+  781  sudo npm config set registry https://registry.npmjs.org/
+  782  curl https://registry.npmjs.org/
+  783  npm install
+  784  npx create-react-app image-app
+  785  npm cache clean --force
+  786  sudo npm cache clean --force
+  787  npm install
+  788  npm upgrade npx
+  789  npx
+  790  clear
+  791  sudo npm upgrade npx
+  792  npm install -g npm@latest
+  793  npm install -g npm
+  794  clear
+  795  npm install --global create-react-app
+  796  npm config set registry http://registry.npmjs.org/
+  797  npm install
+  798  npm install --global create-react-app
+  799  npm config set registry https://skimdb.npmjs.com/registry
+  800  npm install --global create-react-app
+  801  npm install -g create-react-app
+  802  ls -la
+  803  whereis package.json
+  804  npm init -y
+  805  npm install -g create-react-app
+  806  npx create-react-app image-app
+  807  npm config set registry http://registry.npmjs.org
+  808  npm install -g @angular/cli
+  809  npm install -g @npx
+  810  clear
+  811  npm install -g @npx
+  812  npm install -g npx
+  813  more /home/chandana/.npm/_logs/2023-11-09T04_33_47_198Z-debug-0.log
+  814  clear
+  815  npm -g install npm
+  816  npm -g install npm
+  817  cd
+  818  ls pack*
+  819  vi package.json 
+  820  rm package.json 
+  821  rm package-lock.json
+  822  npm init
+  823  npm -g install npm
+  824  quit
+  825  exit
+  826  cd ReactJS/
+  827  npx creat-react-app image-app
+  828  npx create-react-app image-app
+  829  npm config set registry
+  830  npx create-react-app image-app
+  831  more /etc/hosts
+  832  sudo vi /etc/hosts
+  833  npx create-react-app image-app
+  834  cd image-app/
+  835  npm start
+  836  cd ..
+  837  cd accounts-receivable/
+  838  npm start
+  839  cd ..
+  840  cd image-app/
+  841  npm start
+  842  cd ..
+  843  cd accounts-receivable/
+  844  npm start
+  845  cd ..
+  846  cd image-app/
+  847  npm start
+  848  cd ..
+  849  clear
+  850  cd accountspayable
+  851  npm start
+  852  exit
+  853  cd ..
+  854  ls
+  855  ls -la
+  856  cd accountspayable-app/
+  857  npm start
+  858  ls -la
+  859  rm package-lock.json 
+  860  npm start
+  861  cd ..
+  862  cd accounts-receivable/
+  863  npm start
+  864  cd ..
+  865  npx create-react-app accountspayable
+  866  npm start
+  867  cd accountspayable
+  868  npm start
+  869  cd Downloads/postman-linux-x64\ \(1\)/Postman/
+  870  postman
+  871  exit
+  872  cd Downloads/ideaIC-2023.2.2/idea-IC-232.9921.47/bin/
+  873  ./idea.sh
+  874  exit
+  875  cd IdeaProjects/
+  876  ls
+  877  ls -la
+  878  mv maraichage-backend/ maraichage-backend-accountsreceivable
+  879  ls -la
+  880  mv testImage/ maraichage-backend-accountspayable
+  881  pwd
+  882  git init
+  883  git add .
+  884  cd maraichage-backend-accountspayable/
+  885  git init
+  886  git .
+  887  git add .
+  888  git commit -m "first commit - maraichage-backend-accountspayable"
+  889  git branch -M main
+  890  git remote add origin git@github.com:Chandanakka/maraichage-backend-accountspayable.git
+  891  git push -u origin main
+  892  cd ../maraichage-backend-accountsreceivable/
+  893  clear
+  894  git init
+  895  git add .
+  896  git commit -m "first commit - maraichage-backend-accountsreceivable"
+  897  git branch -M main
+  898  git remote add origin git@github.com:Chandanakka/maraichage-backend-accountsreceivable.git
+  899  git push -u origin main
+  900  git branch -M main
+  901  git remote add origin git@github.com:Chandanakka/maraichage-backend-accountsreceivable.git
+  902  git push -u origin main
+  903  git remote add origin https://github.com/Chandanakka/maraichage-backend-accountsreceivable.git
+  904  git push -u origin main
+  905  ls -la
+  906  rm .git*
+  907  rm -Rf .git*
+  908  clear
+  909  git init
+  910  git add .
+  911  git commit -m "first commit - maraichage-backend-accountsreceivable"
+  912  git branch -M main
+  913  git remote add origin git@github.com:Chandanakka/maraichage-backend-accountsreceivable.git
+  914  git push -u origin main
+  915  exit
+  916  cd Downloads/ideaIC-2023.2.2/idea-IC-232.9921.47/bin/
+  917  ./idea.sh 
+  918  pwd
+  919  cd
+  920  cd Downloads/ideaIC-2023.2.2/idea-IC-232.9921.47/bin/
+  921  ./idea.sh
+  922  exit
+  923  cd ReactJS/
+  924  cd accountspayable
+  925  npm start
+  926  cd ..
+  927  cd accounts-receivable/
+  928  npm start
+  929  cd ..
+  930  ls -la
+  931  cd accountspayable-app/
+  932  npm start
+  933  cd ..
+  934  ls -la
+  935  npx create-react-app accounts[ayable
+  936  npx create-react-app accountsreceivable
+  937  cd accountsreceivable/
+  938  npm start
+  939  ls -la
+  940  cd nbproject/
+  941  ls -la
+  942  npm start
+  943  pwd
+  944  cd ..
+  945  ls -la
+  946  cd accountsreceivable/
+  947  ls -la
+  948  git init
+  949  git add .
+  950  git commit -m "first commit - accountsreceivables"~
+  951  git branch -M main
+  952  git remote add origin git@github.com:Chandanakka/accountsreceivables.git
+  953  git push -u origin main
+  954  cd ..
+  955  ls -la
+  956  git init
+  957  git add .
+  958  git commit -m "first commit - accountspayables"~
+  959  git branch -M main
+  960  git remote add origin git@github.com:Chandanakka/accountspayable.git
+  961  git push -u origin main
+  962  git remote add origin git@github.com:Chandanakka/accountspayable.git
+  963  pwd
+  964  cd accountspayable
+  965  git init
+  966  git add .
+  967  git commit -m "first commit - accountspayables"~
+  968  git branch -M main
+  969  git remote add origin git@github.com:Chandanakka/accountspayable.git
+  970  git push -u origin main
+  971  cd
+  972  cd IdeaProjects/
+  973  ls -la
+  974  exit
+  975  cd Downloads/postman-linux-x64\ \(1\)/Postman/
+  976  postman
+  977  exit
+  978  cd IdeaProjects/
+  979  cd maraichage-backend-accountspayable/
+  980  ls -la
+  981  pwd
+  982  ls -la
+  983  git init
+  984  git .
+  985  git add .
+  986  git commit -m "first commit - maraichage-backend-accountspayable
+  987  "
+  988  git branch -M main
+  989  git remote add origin git@github.com:Chandanakka/maraichage-backend-accountspayable.git
+  990  git push -u origin main
+  991  exit
+  992  cd Downloads/ideaIC-2023.2.2/idea-IC-232.9921.47/bin/
+  993  ./idea.sh 
+  994  exit
+  995  more /etc/hosts
+  996  sudo vi /etc/hosts
+  997  exit
+  998  cd ReactJS/accountsreceivable/
+  999  npm start
+ 1000  host=0.0.0.0  npm start
+ 1001  cd
+ 1002  ipconfig
+ 1003  ifconfig
+ 1004  cd 
+ 1005  cd ReactJS/accountsreceivable/
+ 1006  npm start
+ 1007  npm install env-cmd --save-dev
+ 1008    npm audit fix --force
+ 1009  touch .env
+ 1010  vi .env
+ 1011  npm start
+ 1012  clear
+ 1013  npm start > test.log
+ 1014  vi test.log 
+ 1015  mv .env .env-old
+ 1016  npm start
+ 1017  clear
+ 1018  export NODE_OPTIONS=--openssl-legacy-provider
+ 1019  npm start
+ 1020  mv .env-old .env
+ 1021  npm start
+ 1022  git add .
+ 1023  git commit -m "accounts receivable - with env, https"
+ 1024  git push origin main
+ 1025  git pull origin main
+ 1026  ls -la
+ 1027  more .env
+ 1028  clear
+ 1029  npm start
+ 1030  history > test.his
