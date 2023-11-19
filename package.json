@@ -8,11 +8,15 @@
     "@testing-library/user-event": "^13.5.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "react-scripts": "^3.0.1",
+    "react-scripts": "^5.0.1",
     "web-vitals": "^2.1.4"
   },
-  "scripts": {
+   "proxy": "http://192.168.0.179:8080",
+   "homepage": "http://chandanakka.github.io/accountsreceivable",
+   "scripts": {
     "start": "react-scripts start",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
@@ -36,6 +40,6 @@
     ]
   },
   "devDependencies": {
-    "env-cmd": "^10.1.0"
+    "gh-pages": "^6.0.0"
   }
 }

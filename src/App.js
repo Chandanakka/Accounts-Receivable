@@ -46,24 +46,28 @@ class FormDataExample extends Component {
     formData.append('glreceivedfrom', this.state.glreceivedfrom);
     formData.append('glreceivedamount', this.state.glreceivedamount);
     formData.append('glimage', this.state.selectedImage);
-
-    // Make a POST request to your Spring Boot API.
     fetch('http://192.168.0.179:8080/AccountsReceivable', {
         method: 'POST',
+        mode: 'no-cors',
         body: formData
     })
-            .then(response => { this.setState({ message: 'All Good-1!' });
-                if (!response.ok) {this.setState({ message: 'All is not Good-1!' });
-                    throw new Error('Response was not ok; please enter all fields');
+        .then((response) => {
+        if (!response.ok) {
+          // Check for error status and throw an error
+          throw new Error(`HTTP error! Status: ${response.status}`);
         }
-        return response.toString();
-    })
-            .then(data => {this.setState({  message: 'All Good - Inserted Account Payable!!' });
-            })
-            .catch(error => {console.error('Fetch error:', error);this.setState({ message: 'All is not Good-2!' + error});
-                console.error('Fetch error:', error);
-                this.setState({ message: 'All is not Good!' + error});
-    });
+        return response.json(); // Parse the response body as JSON
+      })
+      .then((responseData) => {
+        // Handle successful response data here
+        console.log('Response Data:', responseData);
+        this.setState({message: 'Response Data:'+ responseData});
+      })
+      .catch((error) => {
+        // Handle any errors that occurred during the fetch
+        console.error('Error posting data:', error.message);
+        this.setState({ message: 'Error posting data:'+ error.message});
+      });
   };
   handleClearSubmit= (e) => {
     this.setState({ glreceiptchequeno:''});
@@ -82,7 +86,7 @@ class FormDataExample extends Component {
     return (
       <div className="accounts-receivables">
       <div className="transaction-form">
-       <div className="accounts-receivables"><h2>ACCOUNTS RECEIVABLES</h2></div>
+       <div className="accounts-receivables"><h2>ACCOUNTS RECEIVABLES-accountsreceivable</h2></div>
          <form onSubmit={this.handleSubmit}>
           <div className="form-group">
             <label htmlFor="glreceiptchequeno"><b> Cheque/Receipt No:</b></label>
@@ -134,7 +138,7 @@ class FormDataExample extends Component {
             <input className="form-control"
               type="file"
               id="glimage"
-              accept="image/*"
+              accept="*"
               value={this.state.glimage}
               ref={this.glimage}
               onChange={this.handleImageChange}
