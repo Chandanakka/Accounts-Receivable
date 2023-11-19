@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/accountsreceivable/static/css/main.0336489a.chunk.css",
-    "main.js": "/accountsreceivable/static/js/main.8d4216f2.chunk.js",
-    "main.js.map": "/accountsreceivable/static/js/main.8d4216f2.chunk.js.map",
+    "main.js": "/accountsreceivable/static/js/main.a55ab112.chunk.js",
+    "main.js.map": "/accountsreceivable/static/js/main.a55ab112.chunk.js.map",
     "runtime~main.js": "/accountsreceivable/static/js/runtime~main.7fad2089.js",
     "runtime~main.js.map": "/accountsreceivable/static/js/runtime~main.7fad2089.js.map",
     "static/js/2.a2b181a3.chunk.js": "/accountsreceivable/static/js/2.a2b181a3.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.940f5f6f.chunk.js": "/accountsreceivable/static/js/3.940f5f6f.chunk.js",
     "static/js/3.940f5f6f.chunk.js.map": "/accountsreceivable/static/js/3.940f5f6f.chunk.js.map",
     "index.html": "/accountsreceivable/index.html",
-    "precache-manifest.4b25364f3b66414d646e7c78d1a15a8a.js": "/accountsreceivable/precache-manifest.4b25364f3b66414d646e7c78d1a15a8a.js",
+    "precache-manifest.e739dcd4095e560c8b2129003d9702ba.js": "/accountsreceivable/precache-manifest.e739dcd4095e560c8b2129003d9702ba.js",
     "service-worker.js": "/accountsreceivable/service-worker.js",
     "static/css/main.0336489a.chunk.css.map": "/accountsreceivable/static/css/main.0336489a.chunk.css.map"
   }
