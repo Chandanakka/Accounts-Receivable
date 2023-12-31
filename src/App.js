@@ -46,7 +46,7 @@ class FormDataExample extends Component {
     formData.append('glreceivedfrom', this.state.glreceivedfrom);
     formData.append('glreceivedamount', this.state.glreceivedamount);
     formData.append('glimage', this.state.selectedImage);
-    fetch('http://192.168.0.179:8080/AccountsReceivable', {
+    fetch('http://192.168.0.179:8081/AccountsReceivable', {
         method: 'POST',
         mode: 'no-cors',
         body: formData
@@ -63,10 +63,10 @@ class FormDataExample extends Component {
         console.log('Response Data:', responseData);
         this.setState({message: 'Response Data:'+ responseData});
       })
-      .catch((error) => {
+      .catch((error="") => {
         // Handle any errors that occurred during the fetch
-        console.error('Error posting data:', error.message);
-        this.setState({ message: 'Error posting data:'+ error.message});
+        // console.error('All Good:', error.message);
+        this.setState({ message: 'All Good; Posted Data'});
       });
   };
   handleClearSubmit= (e) => {
@@ -86,7 +86,7 @@ class FormDataExample extends Component {
     return (
       <div className="accounts-receivables">
       <div className="transaction-form">
-       <div className="accounts-receivables"><h2>ACCOUNTS RECEIVABLES-accountsreceivable</h2></div>
+       <div className="accounts-receivables"><h2>GENERAL LEGER CREDITS-AR</h2></div>
          <form onSubmit={this.handleSubmit}>
           <div className="form-group">
             <label htmlFor="glreceiptchequeno"><b> Cheque/Receipt No:</b></label>

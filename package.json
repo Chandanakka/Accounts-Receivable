@@ -1,5 +1,5 @@
 {
-  "name": "accountsreceivable",
+  "name": "accounts-receivable",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -9,11 +9,17 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-scripts": "^5.0.1",
-    "web-vitals": "^2.1.4"
+    "proxy": "http://192.168.0.179:8080",
+    "homepage": "http://chandanakka.github.io/accounts-receivable",
+    "web-vitals": "^2.1.4",
+    "@babel/core": "7.22.5",
+    "@babel/eslint-parser": "7.22.5",
+    "@babel/plugin-proposal-private-property-in-object": "7.21.11",
+    "@babel/preset-env": "7.22.5"
+  
   },
-   "proxy": "http://192.168.0.179:8080",
-   "homepage": "http://chandanakka.github.io/accountsreceivable",
-   "scripts": {
+  
+  "scripts": {
     "start": "react-scripts start",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
@@ -40,6 +46,6 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^6.0.0"
+    "gh-pages": "^6.1.0"
   }
 }

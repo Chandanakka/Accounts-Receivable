@@ -1,17 +1,15 @@
 {
   "files": {
-    "main.css": "/accountsreceivable/static/css/main.0336489a.chunk.css",
-    "main.js": "/accountsreceivable/static/js/main.a55ab112.chunk.js",
-    "main.js.map": "/accountsreceivable/static/js/main.a55ab112.chunk.js.map",
-    "runtime~main.js": "/accountsreceivable/static/js/runtime~main.7fad2089.js",
-    "runtime~main.js.map": "/accountsreceivable/static/js/runtime~main.7fad2089.js.map",
-    "static/js/2.a2b181a3.chunk.js": "/accountsreceivable/static/js/2.a2b181a3.chunk.js",
-    "static/js/2.a2b181a3.chunk.js.map": "/accountsreceivable/static/js/2.a2b181a3.chunk.js.map",
-    "static/js/3.940f5f6f.chunk.js": "/accountsreceivable/static/js/3.940f5f6f.chunk.js",
-    "static/js/3.940f5f6f.chunk.js.map": "/accountsreceivable/static/js/3.940f5f6f.chunk.js.map",
-    "index.html": "/accountsreceivable/index.html",
-    "precache-manifest.e739dcd4095e560c8b2129003d9702ba.js": "/accountsreceivable/precache-manifest.e739dcd4095e560c8b2129003d9702ba.js",
-    "service-worker.js": "/accountsreceivable/service-worker.js",
-    "static/css/main.0336489a.chunk.css.map": "/accountsreceivable/static/css/main.0336489a.chunk.css.map"
-  }
+    "main.css": "/accounts-receivable/static/css/main.0e9350b1.css",
+    "main.js": "/accounts-receivable/static/js/main.6efe893f.js",
+    "static/js/787.36489df3.chunk.js": "/accounts-receivable/static/js/787.36489df3.chunk.js",
+    "index.html": "/accounts-receivable/index.html",
+    "main.0e9350b1.css.map": "/accounts-receivable/static/css/main.0e9350b1.css.map",
+    "main.6efe893f.js.map": "/accounts-receivable/static/js/main.6efe893f.js.map",
+    "787.36489df3.chunk.js.map": "/accounts-receivable/static/js/787.36489df3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0e9350b1.css",
+    "static/js/main.6efe893f.js"
+  ]
 }
